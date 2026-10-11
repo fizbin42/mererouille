@@ -13,7 +13,7 @@ Sa petite-fille Amélia, une jeune ingénieure brillante, accélère enfin les t
 
 Amélia veut retrouver ses parents disparus dans le Grand Nord. Elle est aussi amoureuse d’un noble ruiné qui lui promet les arènes et les lumières de Néo-Novossibirsk. À l’approche du départ, les ambitions, les dettes et les secrets convergent vers Berezovo.
 
-Le cœur affectif de l’histoire est une communauté qui tente de réparer son avenir. La liberté prend une forme concrète : les premiers pas d’une maison que personne n’a jamais vue marcher.
+Le cœur affectif de l’histoire est une communauté qui tente de réparer son avenir. La liberté prend une forme concrète : faire marcher leur maison devient enfin une possibilité réelle, mais encore à accomplir.
 
 ## 2. Ton et langage visuel
 
@@ -57,9 +57,9 @@ Les personnages joueurs appartiennent à cette communauté. Ils sont les compagn
 
 ### Amélia Orsoff — 22 ans
 
-**Apparence.** Jeune femme de taille moyenne, mince et solide, visage expressif aux pommettes saillantes, yeux noisette et quelques taches de rousseur. Ses cheveux cuivrés sont réunis en une longue tresse souvent défaite près du visage. Elle porte une combinaison de travail vert olive, une écharpe rouge sombre, des bottes renforcées et une veste matelassée ocre lorsqu’elle sort. Ses lunettes de protection à verres ambrés restent souvent sur son front. Ses doigts présentent des traces de graisse et de petites coupures de travail.
+**Apparence.** Jeune femme de taille moyenne, mince et solide, visage expressif aux pommettes saillantes, yeux noisette et quelques taches de rousseur. Ses cheveux blancs, courts et ébouriffés encadrent son visage. Elle porte une combinaison de travail vert olive, une écharpe rouge sombre, des bottes renforcées et une veste matelassée ocre lorsqu’elle sort. Ses lunettes de protection à verres ambrés restent souvent sur son front. Ses doigts présentent des traces de graisse et de petites coupures de travail.
 
-**Personnalité.** Brillante, généreuse, enthousiaste et obstinée. Elle comprend instinctivement comment combiner des pièces disparates. Elle aime transmettre ses découvertes et nomme volontiers ceux qui l’ont aidée. Son impatience grandit depuis la disparition des lettres de ses parents. Les nouvelles pièces obtenues et les progrès de Goldoroff lui donnent confiance dans sa propre méthode.
+**Personnalité.** Brillante, généreuse, enthousiaste, impulsive et obstinée. Elle comprend instinctivement comment combiner des pièces disparates. Elle aime transmettre ses découvertes et nomme volontiers ceux qui l’ont aidée. Son impatience grandit depuis la disparition des lettres de ses parents. Les nouvelles pièces obtenues et les progrès de Goldoroff lui donnent confiance dans sa propre méthode.
 
 **Désir et fragilité.** Elle veut libérer le hameau, retrouver ses parents et découvrir le monde. Elle a grandi parmi des gens dont la parole compte et suppose trop facilement que l’affection sera réciproque. Sa confiance envers Arkadi s’appuie sur le sentiment qu’il voit en elle autre chose qu’une jeune mécanicienne de province.
 
