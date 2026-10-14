@@ -2,7 +2,7 @@
 
 ## Situation initiale
 
-Au début de l’hiver, Berezovo est un hameau sibérien d’une centaine d’habitants, accroché à la carcasse d’un ancien Union Crawler immobilisé depuis soixante ans. La communauté vit de cultures sous serre, du bois, de la récupération et de la réparation. Elle verse un tribut au Khan Matveï Kourgan, dont les hommes contrôlent les routes de la région.
+Au début de l’hiver, Berezovo est un hameau sibérien d’une centaine d’habitants, accroché à la carcasse d’un ancien Union Crawler immobilisé depuis soixante ans. La communauté vit de cultures sous serre, du bois, de la récupération et de la réparation. Elle verse un tribut au Khan Matveï Kourgan, dont les hommes contrôlent les routes de la région. Berezovo est situé relativement à l'écart, dans une étroite vallée dégagée. La foret sibérienne l'entoure. Il n'y a pas de constructions industrielles à proximité 
 
 Sous les logements et les passerelles, les habitants restaurent secrètement leur crawler, **Mère-Rouille**, sous la direction de **Barbarella Orsoff** et avec les conseils de **Lev Sokolov**. Ce chantier collectif dure depuis trente ans. Pour Berezovo, remettre la machine en état signifie retrouver une autonomie réelle et faire de sa maison un refuge mobile ; rien ne garantit encore que le projet aboutisse.
 
@@ -24,7 +24,7 @@ Les crawlers sont d’immenses machines mobiles héritées d’une industrie plu
 
 Dans la région, la plupart des mechs sont d’anciens engins industriels de niveaux technologiques 0 et 1, modifiés et réparés avec des composants disparates. Ils servent au transport, au levage, au déblaiement, à la récupération et au combat. Leur disponibilité dépend autant du carburant et des pièces que du nombre de pilotes.
 
-Goldoroff est une exception locale de niveau technologique 2. Sa conception paraît plus cohérente que celle des machines ordinaires de la région. Au commencement, seuls ses assemblages ont passé des essais individuels : le mech reste en chantier et ses performances d’ensemble ne sont pas encore validées. Sa restauration appartient à toute l’équipe d’atelier, même si Amélia en assure la conduite technique.
+Goldoroff est une exception locale de niveau technologique 2. Sa conception paraît plus cohérente que celle des machines ordinaires de la région. Au commencement, seuls ses assemblages ont passé des essais individuels : le mech reste en chantier et ses performances d’ensemble ne sont pas encore validées. L'apparence de Goldoroff doit être clairement plus avancée que les autres mechs.
 
 La récupération reste dangereuse : froid, structures instables, métal coupant, machines dégradées et charges difficiles à dégager. Chaque sortie exige du matériel, du temps et une équipe capable de ramener ses trouvailles.
 
@@ -62,7 +62,7 @@ Plusieurs vieux mechs remis en état par la communauté sont opérationnels ou p
 
 ### Amélia Orsoff — 22 ans
 
-Petite-fille de Barbarella, Amélia est une ingénieure brillante, généreuse, enthousiaste, impulsive et obstinée. Elle comprend comment adapter des pièces disparates et attribue volontiers les réussites à ceux qui l’aident. Ses cheveux blancs, courts et ébouriffés encadrent son visage. Ses doigts portent la graisse et les petites coupures du travail ; ses lunettes de protection restent souvent relevées sur son front.
+Petite-fille de Barbarella, Amélia est une ingénieure brillante, généreuse, enthousiaste, impulsive et obstinée. Elle comprend comment adapter des pièces disparates. Ses cheveux blancs, courts et ébouriffés encadrent son visage. Ses doigts portent la graisse et les petites coupures du travail ; ses lunettes de protection restent souvent relevées sur son front.
 
 Elle dirige la restauration de Goldoroff avec ses compagnons. Lorsqu’un assemblage réussit ses essais, elle y noue un petit ruban rouge. Elle veut contribuer à la liberté de Berezovo, découvrir le monde et retrouver ses parents. Le silence qui dure depuis leur dernière lettre nourrit son impatience.
 
@@ -82,7 +82,7 @@ Il vit seul dans une dacha à quelques kilomètres du hameau et reçoit volontie
 
 ### Le comte Arkadi Vélitski — 27 ans
 
-Arkadi est un jeune noble élégant, charmant et très attentif aux apparences. Son titre est authentique. Ses vêtements de qualité, quoique usés, et sa chevalière d’argent témoignent de son attachement au rang. Il aspire à retrouver une vie de prestige et sait donner aux situations ordinaires l’apparence d’événements mondains.
+Arkadi est un jeune noble élégant, charmant et très attentif aux apparences, vaniteux et manipulateur. Son titre est authentique. Ses vêtements de qualité, quoique usés, et sa chevalière d’argent témoignent de son attachement au rang. Il aspire à retrouver une vie de prestige et sait donner aux situations ordinaires l’apparence d’événements mondains.
 
 Il fréquente Amélia depuis quelques mois ; auprès de lui, elle se sent écoutée.
 
@@ -156,10 +156,7 @@ Le Grand Nord est un territoire mal connu vers lequel Nina et Anton sont partis 
 
 ## Repères propres à l’histoire
 
-Le traitement graphique est défini par [`style.md`](style.md), qui demeure le canon artistique. Les contrastes propres à ce cadre opposent les extérieurs froids et ouverts aux intérieurs encombrés et habités de Berezovo. Les rubans rouges d’Amélia constituent un motif diégétique ; tout accent coloré reste ponctuel et doit fonctionner d’abord en noir et blanc.
+Les contrastes propres à ce cadre opposent les extérieurs froids et ouverts aux intérieurs encombrés et habités de Berezovo. Les rubans rouges d’Amélia constituent un motif diégétique ; tout accent coloré reste ponctuel et doit fonctionner d’abord en noir et blanc.
 
 Le ton associe dureté matérielle, chaleur communautaire et humour de caractère. Les outils prêtés, les repas, les disputes d’atelier et les réparations partagées donnent sa valeur humaine au projet de Mère-Rouille.
 
-## Limites de ce document
-
-Ce document décrit uniquement l’état du monde, les connaissances et les relations au seuil du récit. Il ne fixe aucune issue, mission ni destination. La continuité complète appartient à [`concept.md`](concept.md) et le déroulement à [`draft.md`](draft.md) ; leurs informations postérieures ne font pas partie de cette photographie initiale.

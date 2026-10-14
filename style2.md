@@ -1,0 +1,11 @@
+**Style de bande dessinée franco-belge contemporaine**, mêlant dessin d'aventure, illustration traditionnelle à l'encre et aquarelle. L'ensemble est organique, expressif et légèrement imparfait, avec une esthétique artisanale évoquant un carnet d'illustrations très abouti.
+
+**Encrage fin, nerveux et irrégulier**, avec des variations d'épaisseur, des contours parfois interrompus, des traits esquissés et quelques hachures légères. Le dessin privilégie la spontanéité plutôt que la précision géométrique. Les lignes restent aérées, sans contours noirs épais ni aplats sombres massifs. Les détails sont sélectifs et concentrés sur les éléments importants.
+
+**Colorisation à l'aquarelle translucide**, sur un papier légèrement texturé. Palette douce, poussiéreuse et désaturée : verts sauge, ocres, gris bleutés, bruns et rouges atténués. Les lavis présentent des variations de pigments, des bords irréguliers et laissent respirer le blanc du papier. Quelques accents colorés plus vifs guident le regard.
+
+**Personnages stylisés et expressifs**, aux proportions légèrement caricaturales, avec des silhouettes souples, des attitudes naturelles et des visages très vivants. L'anatomie reste crédible sans rechercher le réalisme. Les vêtements et accessoires sont dessinés avec des plis simples, des détails fonctionnels et quelques marques d'usure.
+
+**Environnements évocateurs mais volontairement simplifiés**, construits à partir de silhouettes lisibles, de quelques détails caractéristiques et de masses d'aquarelle légères. Les textures sont suggérées plutôt que minutieusement dessinées. Les éléments secondaires sont épurés, les arrière-plans peu détaillés et certaines surfaces restent presque blanches. La richesse du décor provient de la composition, des formes et des couleurs plutôt que de l'accumulation de petits objets ou de traits. Les personnages demeurent les principaux points d'attention.
+
+**À éviter :** décors surchargés, accumulation de textures et de détails mécaniques, contours vectoriels trop propres, couleurs saturées en grands aplats, ombrage numérique dur, dégradés lisses, rendu 3D ou photoréaliste. Privilégier la lisibilité, les espaces de respiration et l'économie de traits.
